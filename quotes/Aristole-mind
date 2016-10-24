@@ -1,0 +1,13 @@
+---
+ title: Aristole-mind
+ text: 'It is the mark of an educated mind to be able to entertain a thought without accepting it.'
+ person: Aristole
+ layout: quote
+ header: no
+ show_meta: false
+ categories:
+   - quotes
+ tags:
+   - mind
+  - Aristole
+ ---
